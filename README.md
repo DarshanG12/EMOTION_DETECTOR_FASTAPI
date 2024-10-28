@@ -17,7 +17,8 @@ This project provides an API for detecting emotions in video files using FastAPI
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/DarshanG12/EMOTION_DETECTOR_FASTAPI.git)
+   
 
 2. Install dependencies
 pip install -r requirements.txt
