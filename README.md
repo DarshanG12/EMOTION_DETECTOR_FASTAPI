@@ -21,7 +21,9 @@ This project provides an API for detecting emotions in video files using FastAPI
    
 
 2. Install dependencies
+```
 pip install -r requirements.txt
+```
 
 3.Start the FastAPI server:
 uvicorn main:app --host 127.0.0.1 --port 8000 --reload
