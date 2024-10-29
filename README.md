@@ -26,7 +26,9 @@ pip install -r requirements.txt
 ```
 
 3.Start the FastAPI server:
+```
 uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+```
 
 4.Send a POST request to the API with the video file path:
 
